@@ -24,3 +24,5 @@ Helper function that creates a `StringTypeNode` object from an encoding.
 ```ts
 const node = stringTypeNode('utf8');
 ```
+
+<!-- Auto-update: 2025-10-06T19:16:07.936004 -->
