@@ -38,3 +38,5 @@ pdaNode({
     seeds: [variablePdaSeedNode('authority', publicKeyTypeNode())],
 });
 ```
+
+<!-- Auto-update: 2025-10-10T04:05:43.156131 -->
